@@ -1,0 +1,8 @@
+faster_whisper==1.1.1
+librosa==0.11.0
+matplotlib==3.10.1
+numpy==2.2.5
+torch==2.7.0
+torchvision==0.20.1
+tqdm==4.67.1
+scikit-learn==1.6.1
